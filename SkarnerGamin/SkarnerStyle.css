@@ -28,7 +28,7 @@ footer {
 }
 
 /* link styles */
-a:link, a:visited { color: #DC6903; }
+a:link, a:visited { color: #34c0eb; }
 a:focus, a:hover, a:active { color: #F9AB33; }
 
 a {
